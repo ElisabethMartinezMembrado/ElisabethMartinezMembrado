@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+---
+About Me
+
+I'm Eli, a front-end developer and in the back-end process to be fullstack.
+<br>
+ I work with JavaScript/Typescript, React and Angular.
+<br>
+I am a very creative person, I have design skills.
 <!--
 **ElisabethMartinezMembrado/ElisabethMartinezMembrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
